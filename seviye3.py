@@ -40,9 +40,4 @@ B = Button(pencere, text ="Click Me", command = printit)
 B.pack()
 pencere.mainloop()
 
-
-
 command_clear()
-
-#w = Label(pencere, text="Hello World")
-#w.pack()
