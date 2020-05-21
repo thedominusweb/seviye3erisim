@@ -23,6 +23,9 @@ def printit():
     pencere2.geometry('750x600')
     w = Label(pencere2, text=msg)
     w.pack()
+    ws = Label(pencere2, text="Capture the Flag")
+    ws.pack()
+    
 
 pencere = Tk()
 pencere.title('Seviye3')
