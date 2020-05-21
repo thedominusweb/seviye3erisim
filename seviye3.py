@@ -1,3 +1,5 @@
+__contact__ = "thedominusweb@gmail.com"
+
 import socket
 import os
 from threading import Thread
